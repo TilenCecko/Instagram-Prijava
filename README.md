@@ -1,4 +1,4 @@
-# 📸 Kopija Instagram prijavne strani
+<h1 align="center">📸 Kopija Instagram prijavne strani</h1>
 
 Ta projekt predstavlja podrobno in vizualno natančno kopijo **Instagram prijavne strani**, izdelano z uporabo **HTML**, **CSS**, **JavaScript** ter knjižnice **SweetAlert2** za sodobna opozorila.
 
