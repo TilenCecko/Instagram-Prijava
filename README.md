@@ -1,6 +1,6 @@
-# 📸 Klon Instagram prijavne strani
+# 📸 Kopija Instagram prijavne strani
 
-Ta projekt predstavlja podrobno in vizualno natančno kopijo **Instagram prijavne strani**, izdelano z uporabo **HTML**, **CSS**, **JavaScript** ter knjižnice **SweetAlert2** za sodobna opozorila. Namen projekta je učenje spletnega razvoja, oblikovanja UI ter razumevanje validacij obrazcev.
+Ta projekt predstavlja podrobno in vizualno natančno kopijo **Instagram prijavne strani**, izdelano z uporabo **HTML**, **CSS**, **JavaScript** ter knjižnice **SweetAlert2** za sodobna opozorila.
 
 > ⚠️ Projekt ne zbira ali shranjuje podatkov. Vse funkcionalnosti so zgolj vizualne in izobraževalne. Projekt ni povezan z Instagramom ali Meta Platforms, Inc.
 
