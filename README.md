@@ -78,7 +78,8 @@ Stran je popolnoma odzivna za:
 - manjše zaslone
 
 ## Slike
-- login
 ![Log in](https://github.com/user-attachments/assets/992fbd1a-7c02-44fc-9fe7-d4b69fdb5ad9)
+![Registracija](https://github.com/user-attachments/assets/af87de52-fe58-4a02-8415-9164fe06b956)
+![SweetAlerts](https://github.com/user-attachments/assets/3c435d03-6109-41a9-85b5-6585c7839c63)
+![SweetAlerts](https://github.com/user-attachments/assets/b66455eb-5e0b-4231-b4e7-4fcac36a74e9)
 
-<img width="250" height="300" alt="Posnetek zaslona 2025-11-30 153008" src="https://github.com/user-attachments/assets/af87de52-fe58-4a02-8415-9164fe06b956" />
