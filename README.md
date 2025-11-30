@@ -33,8 +33,8 @@ Prijavna stran posnema uradni Instagram login in uporablja preprosto "fake login
 - preverjanje starosti pri registraciji
 
 **Fake prijavni sistem:**
-email: test@gmail.com
-geslo: test12345
+- email: test@gmail.com
+- geslo: test12345
 
 
 **Dodatno:**
@@ -51,7 +51,7 @@ geslo: test12345
 
 - **index.html** → Prijava (Log In)  
 - **signup.html** → Registracija (Sign Up)  
-- **signup2.html++ → Registracija (drugi korak)
+- **signup2.html** → Registracija (drugi korak)
 - **style.css** → Glavni stil za celotno stran  
 - **script.js** → Validacije + SweetAlert2 logika  
 - **img/** → favicon, logotipi in grafični elementi  
