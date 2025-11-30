@@ -29,22 +29,20 @@ Prijavna stran posnema uradni Instagram login in uporablja preprosto "fake login
 - preverjanje praznih polj  
 - preverjanje pravilne e-pošte  
 - preverjanje pravilnosti gesla  
-- preverjanje pravilnega formata e-pošte
-- preverjanje starosti pri registraciji
+- preverjanje pravilnega formata e-pošte  
+- preverjanje starosti pri registraciji  
 
 **Fake prijavni sistem:**
-- email: test@gmail.com
-- geslo: test12345
-
+- email: **test@gmail.com**
+- geslo: **test12345**
 
 **Dodatno:**
 - SweetAlert2 opozorila za:
-  - napačno geslo
-  - napačno e-pošto
-  - uspešno prijavo
-  - manjkajoče podatke
-  - ,...
-
+  - napačno geslo  
+  - napačno e-pošto  
+  - uspešno prijavo  
+  - manjkajoče podatke  
+  - in druge napake  
 
 ---
 
@@ -52,8 +50,8 @@ Prijavna stran posnema uradni Instagram login in uporablja preprosto "fake login
 
 - **index.html** → Prijava (Log In)  
 - **signup.html** → Registracija (Sign Up)  
-- **signup2.html** → Registracija (drugi korak)
-- **style.css** → Glavni stil za celotno stran  
+- **signup2.html** → Registracija (drugi korak)  
+- **style.css** → Glavni stil (responsive)  
 - **script.js** → Validacije + SweetAlert2 logika  
 - **img/** → favicon, logotipi in grafični elementi  
 
@@ -75,11 +73,35 @@ Stran je popolnoma odzivna za:
 
 - mobilne naprave  
 - tablice  
-- manjše zaslone
+- manjše zaslone  
 
-## Slike
-![Log in](https://github.com/user-attachments/assets/992fbd1a-7c02-44fc-9fe7-d4b69fdb5ad9)
-![Registracija](https://github.com/user-attachments/assets/af87de52-fe58-4a02-8415-9164fe06b956)
-![SweetAlerts](https://github.com/user-attachments/assets/3c435d03-6109-41a9-85b5-6585c7839c63)
-![SweetAlerts](https://github.com/user-attachments/assets/b66455eb-5e0b-4231-b4e7-4fcac36a74e9)
+Media queries prilagajajo:
+- logotip  
+- gumbe  
+- pisave  
+- padding  
+
+---
+
+## 🖼️ Slike (Preview)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/992fbd1a-7c02-44fc-9fe7-d4b69fdb5ad9" width="400"><br>
+  <em>Prijavna stran</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af87de52-fe58-4a02-8415-9164fe06b956" width="400"><br>
+  <em>Registracija</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c435d03-6109-41a9-85b5-6585c7839c63" width="400"><br>
+  <em>SweetAlert2 validacije</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b66455eb-5e0b-4231-b4e7-4fcac36a74e9" width="400"><br>
+  <em>Obvestila</em>
+</p>
 
