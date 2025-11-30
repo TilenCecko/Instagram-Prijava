@@ -92,16 +92,20 @@ Media queries prilagajajo:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/af87de52-fe58-4a02-8415-9164fe06b956" width="400"><br>
-  <em>Registracija</em>
+  <em>Registracija 1.korak</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df3604eb-401f-49ec-8072-669282d037cf" width="400"><br>
+  <em>Registracija 2.korak</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c435d03-6109-41a9-85b5-6585c7839c63" width="400"><br>
-  <em>SweetAlert2 validacije</em>
+  <em>SweetAlert Napaka</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b66455eb-5e0b-4231-b4e7-4fcac36a74e9" width="400"><br>
-  <em>Obvestila</em>
+  <em>SweetAlert Uspešna</em>
 </p>
-
