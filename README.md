@@ -45,6 +45,7 @@ Prijavna stran posnema uradni Instagram login in uporablja preprosto "fake login
   - manjkajoče podatke
   - ,...
 
+
 ---
 
 ## 📄 Struktura strani
@@ -75,3 +76,5 @@ Stran je popolnoma odzivna za:
 - mobilne naprave  
 - tablice  
 - manjše zaslone
+
+<img width="609" height="713" alt="Posnetek zaslona 2025-11-30 152718" src="https://github.com/user-attachments/assets/992fbd1a-7c02-44fc-9fe7-d4b69fdb5ad9" />
