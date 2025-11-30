@@ -77,5 +77,8 @@ Stran je popolnoma odzivna za:
 - tablice  
 - manjše zaslone
 
+## Slike
+- login
 ![Log in](https://github.com/user-attachments/assets/992fbd1a-7c02-44fc-9fe7-d4b69fdb5ad9)
 
+<img width="250" height="300" alt="Posnetek zaslona 2025-11-30 153008" src="https://github.com/user-attachments/assets/af87de52-fe58-4a02-8415-9164fe06b956" />
