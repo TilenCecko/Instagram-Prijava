@@ -2,7 +2,7 @@
 
 Ta projekt predstavlja podrobno in vizualno natančno kopijo **Instagram prijavne strani**, izdelano z uporabo **HTML**, **CSS**, **JavaScript** ter knjižnice **SweetAlert2** za sodobna opozorila.
 
-> ⚠️ Projekt ne zbira ali shranjuje podatkov. Vse funkcionalnosti so zgolj vizualne in izobraževalne. Projekt ni povezan z Instagramom ali Meta Platforms, Inc.
+> ⚠️ Projekt ne zbira ali shranjuje podatkov. Vse funkcionalnosti so zgolj vizualne.
 
 ---
 
